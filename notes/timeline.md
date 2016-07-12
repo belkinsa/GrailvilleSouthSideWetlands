@@ -1,6 +1,6 @@
 # 2016 #
 
-## July ##
+## June ##
 
 - 8th: Started to collect data
 - 15th: Placed 20 dayliles, one without leaves and 19 with leaves in the small pond
