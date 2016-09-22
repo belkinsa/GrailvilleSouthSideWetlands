@@ -29,6 +29,10 @@
 
 ## August ##
 
-- 3th: They moved the cattle futher away from the bog pond and started to see the Ammonium in the big pond go down to 0 ppm.
+- 3th: They moved the cattle futher away from the big pond and started to see the Ammonium in the big pond go down to 0 ppm.
 - 10th: I placed another nibber in the small pond
 - Aug 17th: It rained as I was taking the data
+
+## September ##
+
+- 21st: Placed a nibber into the small pond
