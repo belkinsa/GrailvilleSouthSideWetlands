@@ -36,3 +36,8 @@
 ## September ##
 
 - 21st: Placed a nibber into the small pond
+- 28th It started to rain, but after data collection
+
+## October ##
+
+- 22nd: Placed a nibber into the small pond
