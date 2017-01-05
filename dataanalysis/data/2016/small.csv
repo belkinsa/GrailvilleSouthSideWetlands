@@ -1,4 +1,4 @@
-MM,DD,YY,pH,Ammoina(ppm(mg,L)),Nitrite(ppm(mg,L)),Phoshate(ppm(mg,L))
+MM,DD,YY,pH,Ammoina(ppm(mg/L)),Nitrite(ppm(mg/L)),Phoshate(ppm(mg/L))
 08,19,14,6.5,NA,NA,NA
 08,29,14,6.5,0,0,0.5
 09,07,14,6.5,0,0,0.5
