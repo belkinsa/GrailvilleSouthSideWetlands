@@ -46,7 +46,7 @@
 
 ## March
 
-- 27th: Started data collection season and did an examination of the small pond. Here are the findings:
+- 27th: Started data collection season and did an examination of the small pond. Here are the findings (with [photos](https://github.com/belkinsa/GrailvilleWetlands/tree/master/notes/photos/03-27-2017_findings):
 
     - Found an oily residue near the data collecting edge/point
     - There is life:
