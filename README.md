@@ -54,3 +54,5 @@ From the [initiatives](http://www.grailville.org/green-grailville/initiatives/) 
 1. Data analysis occurs, mainly looking for correlation of data deviation from 7 pH and zero (0) ppm respectfully of the values measured and weather changes, mostly when it rains..
 
 2. Pre- and post season write-up is written.
+
+**I also have research notes [HERE](https://publiclab.org/profile/belkinsa)**
