@@ -54,3 +54,7 @@
         - A snapping turtule
         - Traces of duckweed
         - Blades of grass-like plants
+
+## May
+
+- 8th: Duckweed is covering the whole surface of the small pond
