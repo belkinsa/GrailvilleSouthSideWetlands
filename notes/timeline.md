@@ -29,7 +29,7 @@
 
 ## August
 
-- 3rd: They moved the cattle further away from the big pond and started to see the Ammonium in the big pond go down to 0 ppm.
+- 3rd: They moved the cattle further away from the big pond and started to see the Ammonia in the big pond go down to 0 ppm.
 - 10th: I placed another nibbler in the small pond
 - Aug 17th: It rained as I was taking the data
 
@@ -58,3 +58,8 @@
 ## May
 
 - 8th: Duckweed is covering the whole surface of the small pond
+
+## June
+
+- 19th: Added a nibbler to the small on the deck end
+- 26th: The hurricane/tropical storm before Dora's rain filled the ponds to the edges and maybe a bit more. Also in the small pond, the yarrow maybe be dieing, oberved over a month.  Confery is still alive.

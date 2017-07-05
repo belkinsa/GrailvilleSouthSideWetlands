@@ -33,6 +33,7 @@ From the [initiatives](http://www.grailville.org/green-grailville/initiatives/) 
 * An [API Pond Care Pond Master Test Kit](http://www.apifishcare.com/product.php?sectionid=2&catid=22&subcatid=110&id=670#.WNl4wEe1ukA)
 * Cups for sample collection
 * Metal stick with a cup holder on one end for sample collection help
+* [Nibblers](http://www.pondalgaesolutions.com/biosphere-pro-1/4-acre.html) are used to clean the small pond
 * LibreOffice Calc for data analysis
 * Text Editor (gedit) for data collection in .csv format
 * R will be used later
