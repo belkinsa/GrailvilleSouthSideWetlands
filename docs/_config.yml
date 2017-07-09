@@ -4,11 +4,6 @@ timezone: America/New_York
 title: Grailville Wetlands Project
 e-mail: belkinsa@ubuntu.com
 twitter: https://twitter.com/senseopenness
-baseurl: "/GrailvilleWetlands"
-url: "http://belkinsa.github.io/"
-github:
-    repo: "belkinsa/GrailvilleWetlands"
-    branch: "master"
 
 collections:
   articles:
