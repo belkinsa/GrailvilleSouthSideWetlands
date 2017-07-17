@@ -62,4 +62,10 @@
 ## June
 
 - 19th: Added a nibbler to the small on the deck end
-- 26th: The hurricane/tropical storm before Dora's rain filled the ponds to the edges and maybe a bit more. Also in the small pond, the yarrow maybe be dieing, oberved over a month.  Confery is still alive.
+- 26th: The hurricane/tropical storm before Dora's rain filled the ponds to the edges and maybe a bit more. Also in the small pond, the yarrow maybe be dieing, oberved over a month. Confery is still alive.
+
+## July
+
+- 10th- Heavy downpour occured late last week with some hail.
+
+- 17th- Heavy douwnpour occured mid last week. A nibbler was placed in the small pond in the data collection point. One of the conferies are blooming.
