@@ -8,14 +8,6 @@ From the [Wikipedia page](https://en.wikipedia.org/wiki/Wetland):
 
 >A wetland is a land area that is saturated with water, either permanently or seasonally, such that it takes on the characteristics of a distinct ecosystem. The primary factor that distinguishes wetlands from other land forms or water bodies is the characteristic vegetation of aquatic plants,adapted to the unique hydric soil. Wetlands play a number of roles in the environment, principally water purification, flood control, carbon sink and shoreline stability. Wetlands are also considered the most biologically diverse of all ecosystems, serving as home to a wide range of plant and animal life.
 
-#### Constructed Wetland
-
-From the [Wikipedia page](https://en.wikipedia.org/wiki/Constructed_wetland):
-
->A constructed wetland (CW) is an artificial wetland created for the purpose of treating anthropogenic discharge such as municipal or industrial wastewater, or stormwater runoff. It may also be created for land reclamation after mining, refineries, or other ecological disturbances such as required mitigation for natural areas lost to land development.
-
-The Grailville ponds are an examples of constructed wetlands, mainly the small/little pond.
-
 ### Grailville
 
 From the main page of [Grailville](http://www.grailville.org/):
