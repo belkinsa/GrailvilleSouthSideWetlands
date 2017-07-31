@@ -12,6 +12,8 @@
 
 - Based on the NWI both ponds are classified as a PUBgh (**1**) and is a freshwater pond but the little is 1.33 arces and the big is 1.53 arces. There is also a freshwater emegrent wetland that is a PEM1Ch (**2**), 0.90 arce wetland.
 
+Both wetlands are natural wetlands, not constructed, and therefore, the first question of my research is removed from the list. I don't see it being a useful point to research or talk about.
+
 # Footnotes
 
 **1,2**- [Ref Page](http://128.104.224.198/wetlands.aspx)
