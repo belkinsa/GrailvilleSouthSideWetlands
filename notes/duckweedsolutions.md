@@ -40,6 +40,8 @@ One system is called [Water Hippo](http://ecopondrescue.com/eco-pond-rescue-pond
 
 #### Koi
 
+pH range requirement: 7.0 - 9.0
+
 ##### Pros
 
 - They love Duckweed
@@ -52,6 +54,8 @@ One system is called [Water Hippo](http://ecopondrescue.com/eco-pond-rescue-pond
 
 #### Tilapia
 
+pH range requirement: 5-10
+
 ##### Pros
 
 - They don't need any other supplements
@@ -63,6 +67,8 @@ One system is called [Water Hippo](http://ecopondrescue.com/eco-pond-rescue-pond
 
 #### Grass Carp
 
+pH range requirement: 6.5 - 9.24
+
 ##### Pros
 
 - None
@@ -70,3 +76,4 @@ One system is called [Water Hippo](http://ecopondrescue.com/eco-pond-rescue-pond
 ##### Cons
 
 - Not 100% relible as they eat other things
+- Introduced in the US
