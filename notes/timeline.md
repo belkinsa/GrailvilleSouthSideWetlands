@@ -75,3 +75,7 @@
 - 21st- Placed a nibbler to the small pond on the data collection side.
 
 - 28th- It rained that week.
+
+## September
+
+- 18th- Places a nibbler on the dock side of the small pond.  It rained last week.
