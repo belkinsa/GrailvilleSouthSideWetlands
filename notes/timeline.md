@@ -78,4 +78,17 @@
 
 ## September
 
-- 18th- Places a nibbler on the dock side of the small pond.  It rained last week.
+- 17th- Placed a nibbler on the dock side of the small pond.  It rained last week.
+
+## October
+
+- 16th- The rafts were removed from the small ponds. None of the orginal plants were alive but the aqudtic plants took over and grew in the spots.  Four plants types were found
+
+    - One with big, broad, fuzzy leaves
+    - Wheat-grass like plant with long, narrow leaves
+    - Olive-green stemed plant with small, narrow, serrated leaves
+    - Ground cover-like plant with small green-reddish leaves
+    
+This could explain the raise in the average pH compared to last year.
+
+The big pond has 10% - 20 % duckweed, ~80% has died off.
