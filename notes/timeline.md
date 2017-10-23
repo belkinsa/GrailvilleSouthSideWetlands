@@ -82,7 +82,7 @@
 
 ## October
 
-- 16th- The rafts were removed from the small ponds. None of the orginal plants were alive but the aqudtic plants took over and grew in the spots.  Four plants types were found
+- 16th- The rafts were removed from the small ponds. None of the orginal plants were alive but the aquatic plants took over and grew in the spots.  Four plants types were found
 
     - One with big, broad, fuzzy leaves
     - Wheat-grass like plant with long, narrow leaves
@@ -92,3 +92,5 @@
 This could explain the raise in the average pH compared to last year.
 
 The big pond has 10% - 20 % duckweed, ~80% has died off.
+
+- 23rd- It rained during data collection. The big pond as ~70% duckweed.
