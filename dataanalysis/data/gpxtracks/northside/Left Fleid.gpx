@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <trkseg>
+      <trkpt lat="39.2695893" lon="-84.2406278" />
+      <trkpt lat="39.2697551" lon="-84.2419196" />
+      <trkpt lat="39.2702974" lon="-84.2418138" />
+      <trkpt lat="39.2702999" lon="-84.2418067" />
+      <trkpt lat="39.2703694" lon="-84.241686" />
+      <trkpt lat="39.2704712" lon="-84.2415718" />
+      <trkpt lat="39.27056" lon="-84.2414888" />
+      <trkpt lat="39.2705702" lon="-84.2414623" />
+      <trkpt lat="39.270466" lon="-84.2411122" />
+      <trkpt lat="39.2704186" lon="-84.2409456" />
+      <trkpt lat="39.2704328" lon="-84.2408125" />
+      <trkpt lat="39.270472" lon="-84.2406234" />
+      <trkpt lat="39.2704756" lon="-84.2405645" />
+      <trkpt lat="39.2704666" lon="-84.240518" />
+      <trkpt lat="39.2704518" lon="-84.2405127" />
+      <trkpt lat="39.2702604" lon="-84.2404963" />
+      <trkpt lat="39.2702133" lon="-84.240489" />
+      <trkpt lat="39.2701409" lon="-84.2405025" />
+      <trkpt lat="39.2700649" lon="-84.2405096" />
+      <trkpt lat="39.2699471" lon="-84.2405448" />
+      <trkpt lat="39.2698001" lon="-84.2405692" />
+      <trkpt lat="39.2697004" lon="-84.2405868" />
+      <trkpt lat="39.2695858" lon="-84.2406241" />
+    </trkseg>
+  </trk>
+</gpx>

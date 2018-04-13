@@ -95,8 +95,10 @@ The big pond has 10% - 20 % duckweed, ~80% has died off.
 
 - 23rd- It rained during data collection. The big pond as ~70% duckweed.
 
-# 2017
+# 2018
 
 ## April
 
 2nd- It snowed the night before and I wasn't able to collect data.
+
+13th- Tested on Friday, not Monday.  It rained a bit last week.  The small pond has some duckweed on the edges.  Also there were some small bugs found in the small pond.
