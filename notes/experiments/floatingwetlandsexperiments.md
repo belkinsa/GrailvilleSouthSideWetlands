@@ -1,10 +1,10 @@
-#2018 Data Collection Season
+# 2018 Data Collection Season
 
-##Introduction
+## Introduction
 
 In the last data collection season (2017), three floats were placed with yarrow and comfrey but at the end of the season aquatic plants possibly from seeds that were carried from the local wildlife out competed the yarrow and comfrey.  Due to this, this seasons floating wetlands experiment will focus on the effects of aquatic plants that were grown from seeds from wildlife.
 
-##Materials
+## Materials
 
 - One small mat
 - Pots
@@ -15,7 +15,7 @@ In the last data collection season (2017), three floats were placed with yarrow 
 - Rope
 - Brick
 
-##Method
+## Method
 
 1. Clean the mat and the pots with organic cleaning solution. This is done to make sure that there are no residual seeds that may of survived.
 
