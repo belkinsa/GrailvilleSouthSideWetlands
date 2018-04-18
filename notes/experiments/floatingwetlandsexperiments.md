@@ -9,7 +9,7 @@ In the last data collection season (2017), three floats were placed with yarrow 
 - One small mat
 - Pots
 - Organic potting soil
-- Organic cleaning solution
+- Organic cleaning solution, example: baking soda and vinegar, Ecover
 - Organic Fiber
 - Kayak
 - Rope
@@ -17,7 +17,7 @@ In the last data collection season (2017), three floats were placed with yarrow 
 
 ##Method
 
-1. Clean the mat and the pots with organic cleaning solution. This is done to make sure that there are no residual seeds that may of survived.
+1. Clean the mat and the pots with organic cleaning solution. Ecover was used in this experiment. This is done to make sure that there are no residual seeds that may of survived.
 
 **Note**: These steps below should be done after Mother's Day in the Midwest due to frost.
 
