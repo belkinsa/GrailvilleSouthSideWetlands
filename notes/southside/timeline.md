@@ -106,3 +106,5 @@ The big pond has 10% - 20 % duckweed, ~80% has died off.
 16th- It snowed on the morning of collecting data and I wasn't able to collect data.
 
 23rd- It started to rain when I started to collect the samples.
+
+30th- There is some duckweed in the small pond.
