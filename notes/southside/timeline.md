@@ -108,3 +108,7 @@ The big pond has 10% - 20 % duckweed, ~80% has died off.
 23rd- It started to rain when I started to collect the samples.
 
 30th- There is some duckweed in the small pond.
+
+## May
+
+14th- There is duckweed in both ponds. Also, it rained last night.
