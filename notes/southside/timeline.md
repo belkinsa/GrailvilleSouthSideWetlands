@@ -113,6 +113,10 @@ The big pond has 10% - 20 % duckweed, ~80% has died off.
 
 14th- There is duckweed in both ponds. Also, it rained last night.
 
-21st- It rained twich last week and the mat with the pots is placed in the pond.
+21st- It rained twice last week and the mat with the pots is placed in the pond.
 
 28th- It stormed/rained last week.
+
+## June
+
+4th- It rained last week.
