@@ -122,3 +122,7 @@ The big pond has 10% - 20 % duckweed, ~80% has died off.
 4th- It rained last week.
 
 11th- It rained last week.  The big pond's water level was at the edge of the collection point.
+
+## July
+
+9th- Added a nibbler to the dock side of the small pond.
