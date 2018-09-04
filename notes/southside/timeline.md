@@ -128,3 +128,13 @@ The big pond has 10% - 20 % duckweed, ~80% has died off.
 9th- Added a nibbler to the dock side of the small pond.
 
 16th- Saw two to three (non-snapping) turtles on the float in the small pond.  The big pond has 95% duckweed. The data was taken in early afternoon instead of morning.
+
+## August
+
+20th- It rained last week and it filled the ponds the collection point.  Placed a nibbler on the data collection side of the small pond.
+
+## September
+
+3rd- It rained last weekend.
+
+
