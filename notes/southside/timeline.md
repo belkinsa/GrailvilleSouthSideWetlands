@@ -137,4 +137,15 @@ The big pond has 10% - 20 % duckweed, ~80% has died off.
 
 3rd- It rained last weekend.
 
+10th- It rained alot to the point of the small pond overfilling abput 3 feet past the shoreline on the data collection point.  Placed a nibbler on the deck side of the small pond.
+
+16th- It rained when data collection happened.  The water level in both ponds gone down a bit.
+
+24th- It raind when data collection happened.
+
+## October
+
+15th- It rained on the data collection morning and placed a nibbler on the deck side of the small pond.
+
+22nd- It rained a bit last week.
 
