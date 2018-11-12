@@ -147,5 +147,5 @@ The big pond has 10% - 20 % duckweed, ~80% has died off.
 
 15th- It rained on the data collection morning and placed a nibbler on the deck side of the small pond.
 
-22nd- It rained a bit last week.
+22nd- It rained a bit last week. Removed the raft from the ponds, found nothing that grew.
 
