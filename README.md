@@ -1,4 +1,4 @@
-#Table of Contents
+# Table of Contents
 
 - **Timeline** Contains information on what happened during the data collection.
 - **Plans** Contains the plans of how things were going to be.
