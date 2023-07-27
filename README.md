@@ -1,3 +1,5 @@
+**Archived on GitHub on July 27, 2023**
+
 # Table of Contents
 
 - **Timeline** Contains information on what happened during the data collection.
